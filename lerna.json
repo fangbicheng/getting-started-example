@@ -10,7 +10,7 @@
       "exact": true,
       "includeMergedTags": true,
       "allowBranch": [
-        "master",
+        "main",
         "feature/*",
         "feat/*",
         "bugfix/*",
