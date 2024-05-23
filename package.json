@@ -7,6 +7,9 @@
   "devDependencies": {
     "lerna": "^3.22.1"
   },
+  "scripts": {
+    "lerna": "lerna version patch"
+  },
   "volta": {
     "node": "18.17.1"
   }
